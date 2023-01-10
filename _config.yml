@@ -2,13 +2,13 @@
 title: Justin F. Willett
 position: Ph.D. Student
 affiliation: University of Missouri
-email: willettj (at) missouri (dot) edu
+email: willettj@missouri.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Justin F. Willett
+description: The personal academic homepage for Justin F. Willett.
+canonical: https://willettjf.com
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -20,7 +20,7 @@ twitter: https://twitter.com/willettjf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/JW1200.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
