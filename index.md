@@ -25,7 +25,7 @@ University of Missouri School of Journalism, Columbia, Missouri
 
 ## Publications
 
-### Conferences Presentations (Refereed)
+### Conference Presentations (Refereed)
 
 **Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_. Paper presented May 27, 2023, at the International Communication Association Conference in Toronto, Ontario, Canada.
 
