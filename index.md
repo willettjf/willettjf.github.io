@@ -8,9 +8,9 @@ I am a Ph.D. student at the University of Missouri School of Journalism.
 
 ## Research Interests
 
-- **Health Advertising**
-- **Narrative Persuasion**
-- **Digital Storytelling**
+- Health Advertising
+- Narrative Persuasion
+- Digital Storytelling
 
 ## Education
 
@@ -35,12 +35,12 @@ University of Missouri School of Journalism, Columbia, Missouri
 
 ### Courses Taught
 
-- **JOURN 4242/7242 Strategic Communication Leadership**
+- JOURN 4242/7242 Strategic Communication Leadership
 
 ### Certifications
 
-- **Online Teaching**
-- **Inclusive Teaching**
+- Online Teaching
+- Inclusive Teaching
 
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning-->
