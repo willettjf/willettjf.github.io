@@ -30,9 +30,9 @@ University of Missouri School of Journalism, Columbia, Missouri
 
 **Conferences Presentations (Refereed)** 
 
-**Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023). __The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being__. Paper presented May 27, 2023, at the International Communication Association Conference in Toronto, Ontario, Canada.
+**Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_. Paper presented May 27, 2023, at the International Communication Association Conference in Toronto, Ontario, Canada.
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2023). __Seeking the public health angle in Missouri newspaper coverage of the opioid crisis__. Paper accepted to Communicating Science, Health, Environment & Risk (ComSHER) Division, Association for Education in Journalism and Mass Communication Conference, August 7-10, 2023, in Washington, D.C.
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2023). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_. Paper accepted to Communicating Science, Health, Environment & Risk (ComSHER) Division, Association for Education in Journalism and Mass Communication Conference, August 7-10, 2023, in Washington, D.C.
 
 ## Teaching
 
