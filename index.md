@@ -15,15 +15,12 @@ I am a Ph.D. student at the University of Missouri School of Journalism.
 ## Education
 
 **Ph.D. in Strategic Communication – expected May 2025**
-
 University of Missouri School of Journalism, Columbia, Missouri
 
 **Master of Health Administration (M.H.A.) – granted December 2021**
-
 University of Missouri School of Medicine, Columbia, Missouri
 
 **Bachelor of Journalism (B.J.) – granted May 2001**
-
 University of Missouri School of Journalism, Columbia, Missouri
 
 ## Publications
@@ -36,14 +33,11 @@ University of Missouri School of Journalism, Columbia, Missouri
 
 ## Teaching
 
-**Courses Taught**
-
+**Courses Taught**<br>
 JOURN 4242/7242 Strategic Communication Leadership
 
-**Certifications**
-
-Online Teaching
-
+**Certifications**<br>
+Online Teaching<br>
 Inclusive Teaching
 
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
