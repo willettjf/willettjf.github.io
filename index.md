@@ -8,9 +8,9 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 
 ## Research Interests
 
-- Health Advertising
-- Narrative Persuasion
-- Digital Storytelling
+- Health advertising
+- Narrative persuasion
+- Digital storytelling
 
 ## Education
 
@@ -50,6 +50,14 @@ The Department of Health Management and Informatics at the University of Missour
 ## Professional Experience
 
 Justin served as Communication Manager at MU Health Care and the School of Medicine from 2018-2021. He helped lead MU Health Care’s COVID-19 communication efforts, including promotion of the health system’s COVID-19 vaccine program. Under Willett’s leadership, the health system’s evidence-based COVID-19 vaccine content garnered millions of pageviews and boosted total pageviews of muhealth.org owned content by nearly 1200% in 2021 (13 times higher than 2020).
+
+### Expertise
+
+- Writing and editing
+- Content marketing
+- Digital and print publications
+- Website design and strategy
+- Social media strategy and planning
 
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning-->
