@@ -41,6 +41,7 @@ University of Missouri School of Journalism, Columbia, Missouri
 
 - Online Teaching
 - Inclusive Teaching
+- Writing Intensive (WI)
 
 ## Awards and Honors
 
