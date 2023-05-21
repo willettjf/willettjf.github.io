@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Missouri School of Journalism.
+I am a second-year Ph.D. student at the University of Missouri School of Journalism.
 
 ## Research Interests
 
