@@ -42,6 +42,15 @@ University of Missouri School of Journalism, Columbia, Missouri
 - Online Teaching
 - Inclusive Teaching
 
+## Awards and Honors
+
+**Bonnie and Douglas Wakefield Award - awarded December 2021**<br>
+The Department of Health Management and Informatics at the University of Missouri School of Medicine presents this award annually to a graduating master’s student who has displayed significant achievement and leadership outside the classroom. <a href="https://medicine.missouri.edu/news/hmi-graduates-31-december-commencement" target="_blank">Learn more</a>.
+
+## Professional Experience
+
+Justin served as Communication Manager at MU Health Care and the School of Medicine from 2018-2021. He helped lead MU Health Care’s COVID-19 communication efforts, including promotion of the health system’s COVID-19 vaccine program. Under Willett’s leadership, the health system’s evidence-based COVID-19 vaccine content garnered millions of pageviews and boosted total pageviews of muhealth.org owned content by nearly 1200% in 2021 (13 times higher than 2020).
+
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning-->
 
