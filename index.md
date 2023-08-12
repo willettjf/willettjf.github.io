@@ -12,14 +12,15 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 - Narrative persuasion
 - Digital storytelling
 - Leader-employee communication
+- Well-being
 
 ## Publications
 
 ### Conference Presentations (Refereed)
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2023). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_. Paper presented August 7, 2023, at the Association for Education in Journalism and Mass Communication Conference in Washington, D.C.
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2023, August 7-10). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_ [Poster session]. Association for Education in Journalism and Mass Communication 2023 Conference, Washington, D.C., United States. 
 
-**Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_. Paper presented May 27, 2023, at the International Communication Association Conference in Toronto, Ontario, Canada.
+**Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023, May 25-29). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_ [Paper presentation]. International Communication Association 2023 Conference, Toronto, Ontario, Canada.
 
 ## Teaching
 
