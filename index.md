@@ -11,25 +11,15 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 - Health advertising
 - Narrative persuasion
 - Digital storytelling
-
-## Education
-
-**Ph.D. in Strategic Communication – expected May 2025**<br>
-University of Missouri School of Journalism, Columbia, Missouri
-
-**Master of Health Administration (M.H.A.) – granted December 2021**<br>
-University of Missouri School of Medicine, Columbia, Missouri
-
-**Bachelor of Journalism (B.J.) – granted May 2001**<br>
-University of Missouri School of Journalism, Columbia, Missouri
+- Leader-employee communication
 
 ## Publications
 
 ### Conference Presentations (Refereed)
 
-**Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_. Paper presented May 27, 2023, at the International Communication Association Conference in Toronto, Ontario, Canada.
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2023). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_. Paper presented August 7, 2023, at the Association for Education in Journalism and Mass Communication Conference in Washington, D.C.
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2023). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_. Paper accepted to Communicating Science, Health, Environment & Risk (ComSHER) Division, Association for Education in Journalism and Mass Communication Conference, August 7-10, 2023, in Washington, D.C.
+**Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_. Paper presented May 27, 2023, at the International Communication Association Conference in Toronto, Ontario, Canada.
 
 ## Teaching
 
@@ -47,6 +37,17 @@ University of Missouri School of Journalism, Columbia, Missouri
 
 **Bonnie and Douglas Wakefield Award - awarded December 2021**<br>
 The Department of Health Management and Informatics at the University of Missouri School of Medicine presents this award annually to a graduating master’s student who has displayed significant achievement and leadership outside the classroom. <a href="https://medicine.missouri.edu/news/hmi-graduates-31-december-commencement" target="_blank">Learn more</a>.
+
+## Education
+
+**Ph.D. in Strategic Communication – expected May 2025**<br>
+University of Missouri School of Journalism, Columbia, Missouri
+
+**Master of Health Administration (M.H.A.) – granted December 2021**<br>
+University of Missouri School of Medicine, Columbia, Missouri
+
+**Bachelor of Journalism (B.J.) – granted May 2001**<br>
+University of Missouri School of Journalism, Columbia, Missouri
 
 ## Professional Experience
 
