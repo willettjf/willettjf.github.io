@@ -10,11 +10,14 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 
 - Health advertising
 - Narrative persuasion
-- Digital storytelling
-- Leader-employee communication
-- Well-being
+- Leadership communication
+- Consumer and employee well-being
 
 ## Publications
+
+### Peer-reviewed Journal Articles
+
+**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. _International Journal of Business Communication_. Advance online publication. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
 
 ### Conference Presentations (Refereed)
 
@@ -36,7 +39,7 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 
 ## Awards and Honors
 
-**Bonnie and Douglas Wakefield Award - awarded December 2021**<br>
+**Bonnie and Douglas Wakefield Award**<br>
 The Department of Health Management and Informatics at the University of Missouri School of Medicine presents this award annually to a graduating master’s student who has displayed significant achievement and leadership outside the classroom. <a href="https://medicine.missouri.edu/news/hmi-graduates-31-december-commencement" target="_blank">Learn more</a>.
 
 ## Education
@@ -44,10 +47,10 @@ The Department of Health Management and Informatics at the University of Missour
 **Ph.D. in Strategic Communication – expected May 2025**<br>
 University of Missouri School of Journalism, Columbia, Missouri
 
-**Master of Health Administration (M.H.A.) – granted December 2021**<br>
+**Master of Health Administration (M.H.A.)**<br>
 University of Missouri School of Medicine, Columbia, Missouri
 
-**Bachelor of Journalism (B.J.) – granted May 2001**<br>
+**Bachelor of Journalism (B.J.)**<br>
 University of Missouri School of Journalism, Columbia, Missouri
 
 ## Professional Experience
