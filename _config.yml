@@ -13,10 +13,10 @@ canonical: https://willettjf.com
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 # github_link: https://github.com/
-# google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao
 cv_link: assets/files/curriculum_vitae.pdf
 linkedin: https://www.linkedin.com/in/willettjf
-twitter: https://twitter.com/willettjf
+# twitter: https://twitter.com/willettjf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
