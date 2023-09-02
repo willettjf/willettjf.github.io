@@ -9,17 +9,18 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 ## Research Interests
 
 - Health advertising
+- Consumer well-being
 - Narrative persuasion
 - Leadership communication
-- Consumer and employee well-being
+- Employee well-being
 
 ## Publications
 
-### Peer-reviewed Journal Articles
+### Peer-Reviewed Journal Articles
 
 **Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. _International Journal of Business Communication_. Advance online publication. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
 
-### Conference Presentations (Refereed)
+### Refereed Conference Papers
 
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2023, August 7-10). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_ [Poster session]. Association for Education in Journalism and Mass Communication 2023 Conference, Washington, D.C., United States. 
 
