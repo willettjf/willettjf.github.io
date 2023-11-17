@@ -9,8 +9,9 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 ## Research Interests
 
 - Health advertising
-- Consumer well-being
+- Patient story advertising
 - Narrative persuasion
+- Consumer well-being
 - Leadership communication
 - Employee well-being
 
