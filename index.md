@@ -70,8 +70,6 @@ Justin served as Communication Manager at MU Health Care and the School of Medic
 - Website design and strategy
 - Social media strategy and planning
 
-{% include_relative _curriculum_vitae.pdf %}
-
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning-->
 
