@@ -8,8 +8,8 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 
 ## Research Interests
 
-- Health advertising
-- Patient story advertising
+- Health communication
+- Health care advertising
 - Narrative persuasion
 - Consumer well-being
 - Leadership communication
@@ -23,6 +23,8 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 
 ### Refereed Conference Papers
 
+**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024, June 20-24). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [Paper presentation]. International Communication Association 2024 Conference, Gold Coast, Queensland, Australia.
+
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2023, August 7-10). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_ [Poster session]. Association for Education in Journalism and Mass Communication 2023 Conference, Washington, D.C., United States. 
 
 **Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023, May 25-29). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_ [Paper presentation]. International Communication Association 2023 Conference, Toronto, Ontario, Canada.
@@ -31,7 +33,7 @@ I am a second-year Ph.D. student at the University of Missouri School of Journal
 
 ### Courses Taught
 
-- JOURN 4242/7242 Strategic Communication Leadership
+- JOURN 4242 Strategic Communication Leadership
 
 ### Certifications
 
@@ -46,7 +48,8 @@ The Department of Health Management and Informatics at the University of Missour
 
 ## Education
 
-**Ph.D. in Strategic Communication – expected May 2025**<br>
+**Ph.D. in Journalism – expected May 2025**<br>
+Area of study: Strategic Communication
 University of Missouri School of Journalism, Columbia, Missouri
 
 **Master of Health Administration (M.H.A.)**<br>
@@ -66,6 +69,8 @@ Justin served as Communication Manager at MU Health Care and the School of Medic
 - Digital and print publications
 - Website design and strategy
 - Social media strategy and planning
+
+{% include_relative _curriculum_vitae.pdf %}
 
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning-->
