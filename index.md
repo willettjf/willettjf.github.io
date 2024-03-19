@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student at the University of Missouri School of Journalism.  My expected graduation is May 2025.
+I am a Ph.D. Candidate at the University of Missouri School of Journalism.  My expected graduation is May 2025.
 
 ## Research Interests
 
