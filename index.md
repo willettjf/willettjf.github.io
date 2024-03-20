@@ -24,7 +24,11 @@ I am a Ph.D. Candidate at the University of Missouri School of Journalism.  My e
 
 ### Under review
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_. Department of Strategic Communication, Missouri School of Journalism, University of Missouri. 
+<!---**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [Manuscript submitted for publication]. Department of Strategic Communication, Missouri School of Journalism, University of Missouri.---> 
+
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_ [Manuscript submitted for publication]. Department of Strategic Communication, Missouri School of Journalism, University of Missouri. 
+
+Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). _Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion outcomes_ [Manuscript submitted for publication]. Department of Integrated Strategic Communication, University of Kentucky.
 
 ### Refereed Conference Papers
 
