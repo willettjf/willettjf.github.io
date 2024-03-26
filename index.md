@@ -24,7 +24,7 @@ Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (in press). Comparing 
 
 **Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. _International Journal of Business Communication_. Advance online publication. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
 
-### Under review
+### Journal Articles Under review
 
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2024). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_ [Manuscript submitted for publication]. Department of Strategic Communication, Missouri School of Journalism, University of Missouri. 
 
