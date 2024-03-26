@@ -58,7 +58,7 @@ The Department of Health Management and Informatics at the University of Missour
 ## Education
 
 **Ph.D. in Journalism – expected May 2025**<br>
-Area of study: Strategic Communication
+Area of study: Strategic Communication<br>
 University of Missouri School of Journalism, Columbia, Missouri
 
 **Master of Health Administration (M.H.A.)**<br>
