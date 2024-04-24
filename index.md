@@ -22,7 +22,7 @@ I am a Ph.D. Student at the University of Missouri School of Journalism.  My exp
 
 **Willett, J. F.**, Rodgers S., Stemmle, J. (in press). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_ 
 
-Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (in press). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion outcomes. _Journal of Interactive Advertising_. 
+Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion outcomes. _Journal of Interactive Advertising_. Advance online publication. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1080/15252019.2024.2337057</a>
 
 **Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. _International Journal of Business Communication_. Advance online publication. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
 
