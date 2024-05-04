@@ -70,6 +70,7 @@ Justin served as Communication Manager at MU Health Care and the School of Medic
 ### Expertise
 
 - Writing and editing
+- Brand storytelling
 - Content marketing
 - Digital and print publications
 - Website design and strategy
