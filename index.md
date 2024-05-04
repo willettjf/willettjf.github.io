@@ -16,7 +16,7 @@ I am a Ph.D. Student at the University of Missouri School of Journalism.  My exp
 
 ### Peer-Reviewed Journal Articles
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (in press). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_ 
+**Willett, J. F.**, Rodgers S., Stemmle, J. (in press). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_. 
 
 Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion outcomes. _Journal of Interactive Advertising_. Advance online publication. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1080/15252019.2024.2337057</a>
 
