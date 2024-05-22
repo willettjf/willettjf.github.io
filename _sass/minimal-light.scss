@@ -1,14 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
-body {
-  background-color: #fff;
-  padding:0px;
-  font-family: "Roboto", sans-serif; 
-  font-weight:400;
-  font-style: normal;
-  margin:0
-}
-
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -240,23 +229,20 @@ papertitle {
     }
 
 h3, h4, h5, h6 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   color:#043361;
   margin:0 0 20px;
 }
 
 h1 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
+  font-weight: 500;
   color:#043361;
   margin:0 0 20px;
 }
 
 h2 {
-  font-family: "Roboto", sans-serif;
   color:#043361;
-  font-weight: 700;
+  font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
 }
@@ -424,7 +410,7 @@ header ul a:active {
 }
 
 strong {
-  color:#000000;
+  color:#222;
   font-weight:500;
 }
 
@@ -440,9 +426,9 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-style: normal;
+  font-size:14px;
+  display:block;
+  color:#222;
 }
 
 section {
