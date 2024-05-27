@@ -16,7 +16,7 @@ I am a Ph.D. Student at the University of Missouri School of Journalism. My expe
 
 ### Peer-Reviewed Journal Articles
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (in press). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_. 
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_. Advance online publication. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
 
 Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion outcomes. _Journal of Interactive Advertising_. Advance online publication. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1080/15252019.2024.2337057</a>
 
@@ -26,9 +26,13 @@ Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing pers
 
 **Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [Manuscript submitted for publication]. Department of Strategic Communication, Missouri School of Journalism, University of Missouri.
 
-### Refereed Conference Papers
+### Refereed Conference Papers (Accepted)
+
+**Willett, J. F.** (2024, August 8-11). _The role of patient stories in health care brand storytelling_ [Paper presentation]. Association for Education in Journalism and Mass Communication 2023 Conference, Philadelphia, Pennsylvania, United States.
 
 **Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024, June 20-24). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [Paper presentation]. International Communication Association 2024 Conference, Gold Coast, Queensland, Australia.
+
+### Refereed Conference Papers (Presented)
 
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2023, August 7-10). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_ [Poster session]. Association for Education in Journalism and Mass Communication 2023 Conference, Washington, D.C., United States. 
 
