@@ -14,7 +14,7 @@ I am a Ph.D. Student at the University of Missouri School of Journalism. My expe
 
 ## Publications
 
-### Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles (3)
 
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_. Advance online publication. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
 
