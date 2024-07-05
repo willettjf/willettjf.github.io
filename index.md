@@ -14,7 +14,7 @@ I am a Ph.D. Student at the University of Missouri School of Journalism. My expe
 
 ## Publications
 
-### Peer-Reviewed Journal Articles (3)
+### Peer-Reviewed Journal Articles
 
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_. Advance online publication. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
 
@@ -26,11 +26,9 @@ Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing pers
 
 **Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [Manuscript submitted for publication]. Department of Strategic Communication, Missouri School of Journalism, University of Missouri.
 
-### Refereed Conference Papers (Accepted)
+### Refereed Conference Papers
 
-**Willett, J. F.** (2024, August 8-11). _The role of patient stories in health care brand storytelling_ [Poster session]. Association for Education in Journalism and Mass Communication 2023 Conference, Philadelphia, Pennsylvania, United States.
-
-### Refereed Conference Papers (Presented)
+**Willett, J. F.** (2024, August 8-11). _The role of patient stories in health care brand storytelling_ [Poster session]. Association for Education in Journalism and Mass Communication 2023 Conference, Philadelphia, Pennsylvania, United States. (<a href="/assets/files/Willett-2024_Patient-stories.pdf" target="_blank">Full text</a>)
 
 **Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024, June 20-24). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [High-density session]. International Communication Association 2024 Conference, Gold Coast, Queensland, Australia.
 
