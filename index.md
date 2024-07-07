@@ -28,7 +28,7 @@ Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing pers
 
 ### Refereed Conference Papers
 
-**Willett, J. F.** (2024, August 8-11). _The role of patient stories in health care brand storytelling_ [Poster session]. Association for Education in Journalism and Mass Communication 2024 Conference, Philadelphia, Pennsylvania, United States. (<a href="/assets/files/Willett-2024_Patient-stories.pdf" target="_blank">Full text</a>)
+**Willett, J. F.** (2024, August 8-11). _The role of patient stories in health care brand storytelling_ [Poster session]. Association for Education in Journalism and Mass Communication 2024 Conference, Philadelphia, Pennsylvania, United States. 
 
 **Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024, June 20-24). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [High-density session]. International Communication Association 2024 Conference, Gold Coast, Queensland, Australia.
 
