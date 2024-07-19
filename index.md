@@ -40,7 +40,8 @@ Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing pers
 
 ### Courses Taught
 
-- JOURN 4242 Strategic Communication Leadership
+- JOURN 4242 Strategic Communication Leadership (School of Journalism)
+- HLTH_ADM 8470 Strategic Planning and Marketing for Health Care Organizations (College of Health Sciences)
 
 ### Certifications
 
@@ -67,16 +68,23 @@ University of Missouri School of Journalism, Columbia, Missouri
 
 ## Professional Experience
 
-Justin served as Communication Manager at MU Health Care and the School of Medicine from 2018-2021. He helped lead MU Health Care’s COVID-19 communication efforts, including promotion of the health system’s COVID-19 vaccine program. Under Willett’s leadership, the health system’s evidence-based COVID-19 vaccine content garnered millions of pageviews and boosted total pageviews of muhealth.org owned content by nearly 1200% in 2021 (13 times higher than 2020).
+Justin worked as a newspaper reporter and editor from 2001-2014. He worked a variety of beats and held several editing positions at newspapers in Florida, Missouri, and North Carolina. His last newspaper position was associate city editor of the Columbia (Mo) Daily Tribune. 
+
+Justin worked in content marketing before joining University of Missouri Health Care in 2015. He served as a writer and editor until 2018, when he was promoted to Communication Manager for MU Health Care and the School of Medicine. During his tenure, he helped rebuild the health system's external websites. 
+
+During the COVID-19 pandemic, Willett helped lead the health system’s COVID-19 communication response, including promotion of the health system’s vaccine program. Under Willett’s leadership, the health system’s evidence-based COVID-19 vaccine content garnered millions of pageviews and boosted total pageviews of muhealth.org owned content by nearly 1200% in 2021 (13 times higher than 2020).
 
 ### Expertise
 
-- Writing and editing
-- Brand storytelling
-- Content marketing
-- Digital and print publications
-- Website design and strategy
-- Social media strategy and planning
+- Journalism
+- - Reporting and editing
+- - Social media strategy
+- Strategic communication
+- - Brand storytelling
+- - Content marketing
+- - Digital and print publications
+- - Website design and strategy
+- - Social media strategy
 
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning-->
