@@ -8,8 +8,8 @@ I am a Ph.D. Student at the University of Missouri School of Journalism. My expe
 
 ## Research Interests
 
-- Health care marketing
 - Narrative persuasion
+- Health communication
 - Leadership communication
 
 ## Publications
