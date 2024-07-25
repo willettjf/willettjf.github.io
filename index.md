@@ -76,15 +76,18 @@ During the COVID-19 pandemic, Willett helped lead the health system’s COVID-19
 
 ### Expertise
 
-- Journalism
-- - Reporting and editing
-- - Social media strategy
-- Strategic communication
-- - Brand storytelling
-- - Content marketing
-- - Digital and print publications
-- - Website design and strategy
-- - Social media strategy
+**Journalism**
+- Reporting and editing
+- Social media strategy
+
+**Strategic communication**
+- Brand storytelling
+- Content marketing
+- Digital and print publications
+- Website design and strategy
+- Social media strategy
+
+{% include_relative _includes/publications.md %}
 
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning-->
