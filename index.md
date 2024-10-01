@@ -16,7 +16,7 @@ layout: homepage
 
 ### Peer-Reviewed Journal Articles
 
-**Willett, J. F.**, LaGree, D., Warner, B., Houston, J. B., & Duffy, M. (in press). Flourishing with flexibility: Leader communicative support of flexible work
+**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (in press). Flourishing with flexibility: Leader communicative support of flexible work
 arrangements (FWA) enhances employee engagement and well-being. _International Journal of Business Communication_. 
 
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_, _45_(3), 311-331. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
