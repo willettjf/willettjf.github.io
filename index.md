@@ -16,6 +16,8 @@ layout: homepage
 
 ### Peer-Reviewed Journal Articles
 
+**Willett, J. F.**, LaGree, D., Warner, B., Houston, J. B., & Duffy, M. (in press). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. _International Journal of Business Communication_. 
+
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_, _45_(3), 311-331. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
 
 Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion outcomes. _Journal of Interactive Advertising_, _24_(3), 247-264. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1080/15252019.2024.2337057</a>
