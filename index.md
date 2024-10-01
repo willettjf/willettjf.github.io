@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. Student at the University of Missouri School of Journalism. My expected graduation is May 2025.
+**I am on the academic job market seeking a position that starts Fall 2025.** I plan to graduate with a Ph.D. in Journalism from the Missouri School of Journalism with an emphasis in strategic communication in May 2025.
 
 ## Research Interests
 
