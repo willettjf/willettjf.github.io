@@ -4,42 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. Candidate at the Missouri School of Journalism with an emphasis in strategic health communication. My anticipated graduation date is May 2025.
+I am Research Director at the Novak Leadership Institute at the Missouri School of Journalism.
 
 ## Research Interests
 
-- Narrative persuasion
-- Health communication
-- Leadership communication
+- Organizational and leadership communication
+- Health communication and advertising
+- Digital marketing and advertising
 
 ## Publications
 
-### Peer-Reviewed Journal Articles
-
-**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with flexibility: Leader communicative support of flexible work
-arrangements (FWA) enhances employee engagement and well-being. _International Journal of Business Communication_. Advance online publication. <a href="https://doi.org/10.1177/23294884241291531" target="_blank">https://doi.org/10.1177/23294884241291531</a>
-
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. _Newspaper Research Journal_, _45_(3), 311-331. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
-
-Zhang, W., Tsou, T.-H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion outcomes. _Journal of Interactive Advertising_, _24_(3), 247-264. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1080/15252019.2024.2337057</a>
-
-**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. _International Journal of Business Communication_. Advance online publication. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
-
-### Refereed Conference Papers
-
-**Willett, J. F.** (2024, August 8-11). _The role of patient stories in health care brand storytelling_ [Poster session]. Association for Education in Journalism and Mass Communication 2024 Conference, Philadelphia, Pennsylvania, United States. 
-
-**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024, June 20-24). _Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being_ [High-density session]. International Communication Association 2024 Conference, Gold Coast, Queensland, Australia.
-
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2023, August 7-10). _Seeking the public health angle in Missouri newspaper coverage of the opioid crisis_ [Poster session]. Association for Education in Journalism and Mass Communication 2023 Conference, Washington, D.C., United States. 
-
-**Willett, J. F.**, LaGree, D., Houston, J. B., Shin, H., & Duffy, M. (2023, May 25-29). _The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being_ [Paper presentation]. International Communication Association 2023 Conference, Toronto, Ontario, Canada.
+<a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
 
 ## Teaching
 
 ### Courses Taught
 
-- JOURN 4242 Strategic Communication Leadership (School of Journalism)
+- JOUR 4242 Strategic Communication Leadership (School of Journalism)
 - HLTH_ADM 8470 Strategic Planning and Marketing for Health Care Organizations (College of Health Sciences)
 
 ### Certifications
@@ -55,15 +36,16 @@ The Department of Health Management and Informatics at the University of Missour
 
 ## Education
 
-**Ph.D. in Journalism – expected May 2025**<br>
+**Ph.D. in Journalism**<br>
 Area of study: Strategic Communication<br>
-University of Missouri School of Journalism, Columbia, Missouri
+Institution: Missouri School of Journalism, Columbia, Missouri<br>
+Dissertation: Content-Conditional Effects In Patient Story Advertising: A Dual-Mechanism Approach To Healthcare Narrative Persuasion
 
 **Master of Health Administration (M.H.A.)**<br>
 University of Missouri School of Medicine, Columbia, Missouri
 
 **Bachelor of Journalism (B.J.)**<br>
-University of Missouri School of Journalism, Columbia, Missouri
+Missouri School of Journalism, Columbia, Missouri
 
 ## Professional Experience
 
