@@ -42,7 +42,7 @@ Analysis of strategic planning, services management, and marketing concepts in h
 
 ## Professional Experience
 
-I have over 15 years of professional experience spanning journalism, healthcare communications, and academic research.
+I have over 20 years of professional experience spanning journalism, healthcare communications, and academic research.
 
 **Academic Leadership (2021-Present)**  
 Research Director at the Novak Leadership Institute, focusing on leadership communication and employee well-being research.
