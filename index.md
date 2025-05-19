@@ -4,15 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am Research Director at the Novak Leadership Institute at the Missouri School of Journalism.
+I am Research Director at the Novak Leadership Institute at the Missouri School of Journalism. My research examines how leadership communication shapes workplace culture and enhances employee engagement and well-being. I also investigate narrative persuasion mechanisms in health communication, exploring how storytelling influences health attitudes and behaviors.
 
 ## Research Interests
 
-- Organizational and leadership communication
-- Health communication and advertising
-- Digital marketing and advertising
-- Employee well-being and engagement
-- Media effects and public health
+- **Leadership Communication**
+  - Workplace culture and respectful work environments
+  - Employee engagement and well-being
+  - Communicative support for flexible work arrangements
+
+- **Health Communication**
+  - Narrative persuasion and healthcare storytelling
+  - Media coverage of public health issues
+  - Strategic health messaging
+
+- **Narrative Persuasion**
+  - Persuasive mechanisms in organizational and health contexts
+  - Message personalization strategies
+  - Content-conditional effects in persuasive messaging
 
 ## Publications
 
@@ -56,8 +65,7 @@ Newspaper reporter and editor at publications in Florida, Missouri, and North Ca
 ## Areas of Expertise
 
 - Leadership and organizational communication
-- Health communication strategy
-- Digital content development and marketing
-- Strategic communication research
+- Health communication and narrative persuasion
+- Strategic communication research and application
+- Digital content strategy and development
 - News reporting and editing
-- Website strategy and content development
