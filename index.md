@@ -32,8 +32,8 @@ Missouri School of Journalism, Columbia, Missouri
 
 ## Teaching
 
-**Journalism 4242: Strategic Communication Leadership** (3 Credit Hours)  
-Strategic communication leadership course focused on marketing, multi-media storytelling, advertising, and social platforms. Students learn practical strategies to lead teams and develop positive relationships in organizations.
+**Journalism 4242/7242: Strategic Communication Leadership** (3 Credit Hours)  
+Strategic communication leadership course focused on marketing, multi-media storytelling, advertising, and social platforms. Students learn practical strategies to lead teams and develop positive relationships in organizations. (Writing intensive course)
 
 **Health Administration 8470: Strategic Planning and Marketing for Health Care Organizations** (3 Credit Hours)  
 Analysis of strategic planning, services management, and marketing concepts in healthcare. Covers environment analysis, organizational assessment, and implementing strategy through service management and marketing.
