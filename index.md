@@ -8,40 +8,42 @@ I am Research Director at the Novak Leadership Institute at the Missouri School 
 
 ## Research Interests
 
-- **Leadership Communication**
-  - Workplace culture and respectful work environments
-  - Employee engagement and well-being
-  - Communicative support for flexible work arrangements
+### Leadership Communication
+- Workplace culture and respectful work environments
+- Employee engagement and well-being
+- Communicative support for flexible work arrangements
 
-- **Health Communication**
-  - Narrative persuasion and healthcare storytelling
-  - Media coverage of public health issues
-  - Strategic health messaging
+### Health Communication
+- Narrative persuasion and healthcare storytelling
+- Media coverage of public health issues
+- Strategic health messaging
 
-- **Narrative Persuasion**
-  - Persuasive mechanisms in organizational and health contexts
-  - Message personalization strategies
-  - Content-conditional effects in persuasive messaging
+### Narrative Persuasion
+- Persuasive mechanisms in organizational and health contexts
+- Message personalization strategies
+- Content-conditional effects in persuasive messaging
 
 ## Publications
+
+I have published in leading journals including the International Journal of Business Communication, Journal of Interactive Advertising, and Newspaper Research Journal.
 
 <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
 
 ## Education
 
-**Ph.D. in Journalism**  
+**Ph.D. in Journalism** (2025)  
 Strategic Communication  
-Missouri School of Journalism, Columbia, Missouri
+School of Journalism, University of Missouri
 
-**Master of Health Administration (M.H.A.)**  
-University of Missouri School of Medicine, Columbia, Missouri
+**Master of Health Administration (M.H.A.)** (2021)  
+School of Medicine, University of Missouri
 
-**Bachelor of Journalism (B.J.)**  
-Missouri School of Journalism, Columbia, Missouri
+**Bachelor of Journalism (B.J.)** (2001)  
+School of Journalism, University of Missouri
 
 ## Teaching
 
-**Journalism 4242/7242: Strategic Communication Leadership** (3 Credit Hours)  
+**Journalism 4242W/7242W: Strategic Communication Leadership** (3 Credit Hours)  
 Strategic communication leadership course focused on marketing, multi-media storytelling, advertising, and social platforms. Students learn practical strategies to lead teams and develop positive relationships in organizations. (Writing intensive course)
 
 **Health Administration 8470: Strategic Planning and Marketing for Health Care Organizations** (3 Credit Hours)  
@@ -51,21 +53,26 @@ Analysis of strategic planning, services management, and marketing concepts in h
 
 ## Professional Experience
 
-I have over 20 years of professional experience spanning journalism, healthcare communications, and academic research.
+I have over 20 years of professional experience spanning journalism, healthcare communications, and academic leadership.
 
-**Academic Leadership (2021-Present)**  
-Research Director at the Novak Leadership Institute, focusing on leadership communication and employee well-being research.
+**Novak Leadership Institute, University of Missouri, 2022-present**  
+**Research Director, 2025-present**  
+Lead the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being.
 
-**Healthcare Communications (2015-2021)**  
-Communications Manager for University of Missouri Health Care and School of Medicine. Led COVID-19 communication response that increased website pageviews by nearly 1200% in 2021.
+**Program Director, 2022-2025**  
+Directed leadership development programming while contributing to institute's research initiatives.
 
-**Journalism (2001-2014)**  
-Newspaper reporter and editor at publications in Florida, Missouri, and North Carolina, culminating as associate city editor of the Columbia Daily Tribune.
+**University of Missouri Health Care and School of Medicine, 2015-2022**  
+Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
+
+**Journalism Experience, 2001-2014**  
+Newspaper reporter and editor at publications in Missouri and North Carolina, developing storytelling expertise that now informs my narrative persuasion research.
 
 ## Areas of Expertise
 
 - Leadership and organizational communication
 - Health communication and narrative persuasion
 - Strategic communication research and application
+- Student mentorship and academic development
 - Digital content strategy and development
-- News reporting and editing
+- Journalistic storytelling and reporting
