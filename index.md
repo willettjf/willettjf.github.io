@@ -59,17 +59,17 @@ Analysis of strategic planning, services management, and marketing concepts in h
 
 I have over 20 years of professional experience spanning journalism, healthcare communications, and academic leadership.
 
-**Novak Leadership Institute, University of Missouri, 2022-present**  
+### Novak Leadership Institute, University of Missouri, 2022-present  
 **Research Director, 2025-present**  
 Lead the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being.
 
 **Program Director, 2022-2025**  
 Directed leadership development programming while contributing to institute's research initiatives.
 
-**University of Missouri Health Care and School of Medicine, 2015-2022**  
+### University of Missouri Health Care and School of Medicine, 2015-2022
 Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
 
-**Journalism Experience, 2001-2014**  
+### Journalist, 2001-2014  
 Newspaper reporter and editor at publications in Missouri and North Carolina, developing storytelling expertise that now informs my narrative persuasion research.
 
 ## Areas of Expertise
