@@ -31,7 +31,7 @@ I have published in leading journals including the International Journal of Busi
 
 ## In The Media
 
-Knight, R. (2025, August 18). Building Employee Buy-In for Strategic Change. _Harvard Business Review_. https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change
+Knight, R. (2025, August 18). Building Employee Buy-In for Strategic Change. _Harvard Business Review_. <a href="https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change?giftToken=14621061411755542645399">https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change</a>
 
 ## Education
 
