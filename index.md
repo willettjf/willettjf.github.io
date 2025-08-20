@@ -18,12 +18,7 @@ I am Research Director at the Novak Leadership Institute at the Missouri School 
 - Media coverage of public health issues
 - Strategic health messaging
 
-### Narrative Persuasion
-- Persuasive mechanisms in organizational and health contexts
-- Message personalization strategies
-- Content-conditional effects in persuasive messaging
-
-## Publications
+## Research Publications
 
 I have published in leading journals including the International Journal of Business Communication, Journal of Interactive Advertising, and Newspaper Research Journal.
 
@@ -69,7 +64,7 @@ Directed leadership development programming while contributing to institute's re
 ### University of Missouri Health Care and School of Medicine, 2015-2022
 Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
 
-### Journalist, 2001-2014  
+### Journalism, 2001-2014  
 Newspaper reporter and editor at publications in Missouri and North Carolina, developing storytelling expertise that now informs my narrative persuasion research.
 
 ## Areas of Expertise
