@@ -20,9 +20,7 @@ I am Research Director at the Novak Leadership Institute at the Missouri School 
 
 ## Research Publications
 
-I have published in leading journals including the International Journal of Business Communication, Journal of Interactive Advertising, and Newspaper Research Journal.
-
-<a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
+I have published in leading journals including the International Journal of Business Communication, Journal of Interactive Advertising, and Newspaper Research Journal. See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
 
 ## In The Media
 
