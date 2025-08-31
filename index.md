@@ -4,39 +4,38 @@ layout: homepage
 
 ## About Me
 
-I am Research Director at the Novak Leadership Institute at the Missouri School of Journalism. My research examines how leadership communication shapes workplace culture and enhances employee engagement and well-being. I also investigate narrative persuasion mechanisms in health communication, exploring how storytelling influences health attitudes and behaviors. I teach at the undergraduate and graduate levels, while mentoring students in their academic and professional development.
+I am research director at the Novak Leadership Institute at the Missouri School of Journalism. My research examines how leadership communication shapes workplace culture and enhances employee engagement and well-being. I also investigate narrative persuasion mechanisms in health communication, exploring how storytelling influences health attitudes and behaviors. I teach at the undergraduate and graduate levels, while mentoring students in their academic and professional development.
 
-## Research Interests
+## Research
 
-### Leadership Communication
-- Workplace culture and respectful work environments
-- Employee engagement and well-being
-- Communicative support for flexible work arrangements
+**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with
+flexibility: Leader communicative support of flexible work arrangements (FWA) enhances
+employee engagement and well-being. *International Journal of Business Communication*.
+Advance online publication. https://doi.org/10.1177/23294884241291531
 
-### Health Communication
-- Narrative persuasion and healthcare storytelling
-- Media coverage of public health issues
-- Strategic health messaging
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri
+newspaper coverage of the opioid crisis. *Newspaper Research Journal*, *45*(3),
+311-331. https://doi.org/10.1177/07395329241255158
 
-## Research Publications
+Zhang, W., Tsou, T. H., Rodgers, S., & **Willett, J. F.** (2024). Comparing Personalization
+Strategies in Social Network Advertising: The Role of Impression Motivation in Persuasion
+Outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264.
+https://doi.org/10.1080/15252019.2024.2337057
 
-I have published in leading journals including the International Journal of Business Communication, Journal of Interactive Advertising, and Newspaper Research Journal. See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
+**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader
+communication in fostering respectful workplace culture and increasing employee engagement
+and well-being. *International Journal of Business Communication*. Advance online publication.
+https://doi.org/10.1177/23294884231195614
+
+*See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>*.
 
 ## In The Media
 
 Knight, R. (2025, August 18). Building Employee Buy-In for Strategic Change. _Harvard Business Review_. <a href="https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change?giftToken=14621061411755542645399">https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change</a>
 
-## Education
+Diedrich, S. (2025, January 16). Thriving with flexibility. *Show Me Mizzou*. https://showme.missouri.edu/2025/thriving-with-flexibility/
 
-**Ph.D. in Journalism** (2025)  
-Strategic Communication  
-School of Journalism, University of Missouri
-
-**Master of Health Administration (M.H.A.)** (2021)  
-School of Medicine, University of Missouri
-
-**Bachelor of Journalism (B.J.)** (2001)  
-School of Journalism, University of Missouri
+McCuien, P. (2023, October 17). How leaders communicate with employees sets the tone for a respectful workplace culture. *Show Me Mizzou*. https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/
 
 ## Teaching
 
@@ -73,3 +72,15 @@ Newspaper reporter and editor at publications in Missouri and North Carolina, de
 - Student mentorship and academic development
 - Digital content strategy and development
 - Journalistic storytelling and reporting
+
+## Education
+
+**Ph.D. in Journalism** (2025)  
+Strategic Communication  
+School of Journalism, University of Missouri
+
+**Master of Health Administration (M.H.A.)** (2021)  
+School of Medicine, University of Missouri
+
+**Bachelor of Journalism (B.J.)** (2001)  
+School of Journalism, University of Missouri
