@@ -21,9 +21,10 @@ outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. <a href="htt
 
 ## In The Media
 
-Knight, R. (2025, August 18). Building Employee Buy-In for Strategic Change. _Harvard Business Review_. <a href="https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change?giftToken=14621061411755542645399">https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change</a>
+Knight, R. (2025, August 18). Building Employee Buy-In for Strategic Change. _Harvard Business Review_. <a href="https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change?giftToken=14621061411755542645399" target="_blank">https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change</a>
 
 Diedrich, S. (2025, January 16). Thriving with flexibility. *Show Me Mizzou*. <a href="https://showme.missouri.edu/2025/thriving-with-flexibility/" target="_blank">https://showme.missouri.edu/2025/thriving-with-flexibility/</a>
+
 McCuien, P. (2023, October 17). How leaders communicate with employees sets the tone for a respectful workplace culture. *Show Me Mizzou*. <a href="https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/" target="_blank">https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/</a>
 
 ## Teaching
