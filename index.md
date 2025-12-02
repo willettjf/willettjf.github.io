@@ -8,24 +8,14 @@ I am research director at the Novak Leadership Institute at the Missouri School 
 
 ## Research
 
-**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with
-flexibility: Leader communicative support of flexible work arrangements (FWA) enhances
-employee engagement and well-being. *International Journal of Business Communication*.
-Advance online publication. https://doi.org/10.1177/23294884241291531
+**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being. *International Journal of Business Communication*. Advance online publication. https://doi.org/10.1177/23294884241291531
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri
-newspaper coverage of the opioid crisis. *Newspaper Research Journal*, *45*(3),
-311-331. https://doi.org/10.1177/07395329241255158
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. *Newspaper Research Journal*, *45*(3), 311-331. https://doi.org/10.1177/07395329241255158
 
-Zhang, W., Tsou, T. H., Rodgers, S., & **Willett, J. F.** (2024). Comparing Personalization
-Strategies in Social Network Advertising: The Role of Impression Motivation in Persuasion
-Outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264.
-https://doi.org/10.1080/15252019.2024.2337057
+Zhang, W., Tsou, T. H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion
+outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. https://doi.org/10.1080/15252019.2024.2337057
 
-**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader
-communication in fostering respectful workplace culture and increasing employee engagement
-and well-being. *International Journal of Business Communication*. Advance online publication.
-https://doi.org/10.1177/23294884231195614
+**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. *International Journal of Business Communication*. Advance online publication. https://doi.org/10.1177/23294884231195614
 
 *See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>*.
 
