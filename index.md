@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am research director at the Novak Leadership Institute at the Missouri School of Journalism. My research examines how leadership communication shapes workplace culture and enhances employee engagement and well-being. I also investigate narrative persuasion mechanisms in health communication, exploring how storytelling influences health attitudes and behaviors. I teach at the undergraduate and graduate levels, while mentoring students in their academic and professional development.
+I am research director at the Novak Leadership Institute at the University of Missouri. My research examines how leadership communication shapes workplace culture and enhances employee engagement and well-being. I also investigate narrative persuasion mechanisms in health communication, exploring how storytelling influences health attitudes and behaviors. I teach at the undergraduate and graduate levels, while mentoring students in their academic and professional development.
 
 ## Research
+
+**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2026). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. *International Journal of Business Communication*, *63*(2), 361–385. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
 
 **Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being. *International Journal of Business Communication*. Advance online publication. <a href="https://doi.org/10.1177/23294884241291531" target="_blank">https://doi.org/10.1177/23294884241291531</a>
 
@@ -14,8 +16,6 @@ I am research director at the Novak Leadership Institute at the Missouri School 
 
 Zhang, W., Tsou, T. H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion
 outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1177/07395329241255158</a>
-
-**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2023). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. *International Journal of Business Communication*. Advance online publication. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
 
 *See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>*.
 
