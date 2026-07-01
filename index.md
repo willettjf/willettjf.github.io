@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am research director at the Novak Leadership Institute at the University of Missouri. My research examines how leadership communication shapes workplace culture and enhances employee engagement and well-being. I also investigate narrative persuasion mechanisms in health communication, exploring how storytelling influences health attitudes and behaviors. I teach at the undergraduate and graduate levels, while mentoring students in their academic and professional development.
+I am an Associate Teaching Professor in the Master of Health Administration program at the University of Missouri. My teaching and research focus on (1) fostering thriving workplaces and (2) promoting more ethical, effective health communication.
 
 ## Research
 
@@ -29,24 +29,36 @@ McCuien, P. (2023, October 17). How leaders communicate with employees sets the 
 
 ## Teaching
 
-**Journalism 4242W/7242W: Strategic Communication Leadership** (3 Credit Hours)  
-Strategic communication leadership course focused on marketing, multi-media storytelling, advertising, and social platforms. Students learn practical strategies to lead teams and develop positive relationships in organizations. (Writing intensive course)
+### Current
 
 **Health Administration 8470: Strategic Planning and Marketing for Health Care Organizations** (3 Credit Hours)  
 Analysis of strategic planning, services management, and marketing concepts in healthcare. Covers environment analysis, organizational assessment, and implementing strategy through service management and marketing.
 
-**Certifications:** Online Teaching, Inclusive Teaching, Writing Intensive (WI)
+**Health Administration 7544: Managerial Epidemiology: Population Health Management** (3 Credit Hours)  
+Examination of basic epidemiological concepts and methods as they apply to health services management, with an emphasis on practical applications of epidemiology to health services planning, problem solving, policy development, and systems-thinking. 
+
+### Certifications
+
+* Online Teaching
+* Inclusive Teaching
+* Writing Intensive (WI)
+
+### Past
+
+**Journalism 4242W/7242W: Strategic Communication Leadership** (3 Credit Hours)  
+Strategic communication leadership course focused on marketing, multi-media storytelling, advertising, and social platforms. Students learn practical strategies to lead teams and develop positive relationships in organizations. (Writing intensive course)
 
 ## Professional Experience
 
-I have over 20 years of professional experience spanning journalism, healthcare communications, and academic leadership.
+I have over 20 years of professional experience in journalism, healthcare communication, and academic leadership.
 
-### Novak Leadership Institute, University of Missouri, 2022-present  
-**Research Director, 2025-present**  
+### Department of Health Sciences, University of Missouri, 2026-present 
+**Associate Teaching Professor**
 Lead the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being.
 
-**Program Director, 2022-2025**  
-Directed leadership development programming while contributing to institute's research initiatives.
+### Novak Leadership Institute, University of Missouri, 2022-2026  
+**Program/Research Director**
+Lead the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being. Contributed to leadership development programming and promotion.
 
 ### University of Missouri Health Care and School of Medicine, 2015-2022
 Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
