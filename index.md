@@ -4,7 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am an Associate Teaching Professor in the Master of Health Administration program at the University of Missouri. My teaching and research focus on (1) fostering thriving workplaces and (2) promoting more ethical, effective health communication.
+I am an Associate Teaching Professor in the Master of Health Administration program at the University of Missouri, where I prepare future health leaders to communicate in ways that strengthen the organizations they serve.
+
+My teaching and research focus on two connected questions: How do leaders communicate in ways that help people thrive at work? And how can health organizations communicate more ethically and effectively with the publics they serve?
+
+On the first, my research consistently finds that everyday leadership communication is positively associated with employee well-being and retention. How leaders communicate influences whether people feel respected, stay engaged, and do their best work. On the second, I examine how healthcare organizations use patient success stories as strategic assets, and how audiences respond to a story's evidence and structure in distinct ways. Because healthcare is hard for consumers to evaluate, how organizations tell stories can have an outsize influence on consumer decisions.
+
+My goal is to turn that research into practice: healthier, more respectful organizations, and health communication that earns the public's trust.
 
 ## Research
 
@@ -15,7 +21,7 @@ I am an Associate Teaching Professor in the Master of Health Administration prog
 **Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. *Newspaper Research Journal*, *45*(3), 311-331. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
 
 Zhang, W., Tsou, T. H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion
-outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1177/07395329241255158</a>
+outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1080/15252019.2024.2337057</a>
 
 *See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>*.
 
@@ -54,7 +60,7 @@ I have over 20 years of professional experience in journalism, healthcare commun
 
 ### Department of Health Sciences, University of Missouri, 2026-present 
 **Associate Teaching Professor**
-Lead the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being.
+Teach graduate courses in healthcare strategy and marketing and managerial epidemiology in the Master of Health Administration program. Conduct research on leadership communication and health communication, and contribute to program accreditation and student mentorship.
 
 ### Novak Leadership Institute, University of Missouri, 2022-2026  
 **Program/Research Director**
