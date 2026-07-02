@@ -16,24 +16,24 @@ My goal is to turn that research into practice: healthier, more respectful organ
 
 **Willett, J. F.**, & Houston, J. B. (in press). The crisis leadership framework: A meta-theoretical integration. In D. D. Sellnow, R. Freihaut, Y. Xu, & T. L. Sellnow (Eds.), _Encyclopedia of Crisis Management_. Edward Elgar Publishing.
 
-**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2026). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. *International Journal of Business Communication*, *63*(2), 361–385. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
+**Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2026). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. *International Journal of Business Communication*, *63*(2), 361–385. <a href="https://doi.org/10.1177/23294884231195614">https://doi.org/10.1177/23294884231195614</a>
 
-**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being. *International Journal of Business Communication*. Advance online publication. <a href="https://doi.org/10.1177/23294884241291531" target="_blank">https://doi.org/10.1177/23294884241291531</a>
+**Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being. *International Journal of Business Communication*. Advance online publication. <a href="https://doi.org/10.1177/23294884241291531">https://doi.org/10.1177/23294884241291531</a>
 
-**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. *Newspaper Research Journal*, *45*(3), 311-331. <a href="https://doi.org/10.1177/07395329241255158" target="_blank">https://doi.org/10.1177/07395329241255158</a>
+**Willett, J. F.**, Rodgers S., Stemmle, J. (2024). Seeking the public health angle in Missouri newspaper coverage of the opioid crisis. *Newspaper Research Journal*, *45*(3), 311-331. <a href="https://doi.org/10.1177/07395329241255158">https://doi.org/10.1177/07395329241255158</a>
 
 Zhang, W., Tsou, T. H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion
-outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. <a href="https://doi.org/10.1080/15252019.2024.2337057" target="_blank">https://doi.org/10.1080/15252019.2024.2337057</a>
+outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. <a href="https://doi.org/10.1080/15252019.2024.2337057">https://doi.org/10.1080/15252019.2024.2337057</a>
 
-*See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>*.
+*See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao">Google Scholar</a>*.
 
 ## In The Media
 
-Knight, R. (2025, August 18). Building Employee Buy-In for Strategic Change. _Harvard Business Review_. <a href="https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change?giftToken=14621061411755542645399" target="_blank">https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change</a>
+Knight, R. (2025, August 18). Building Employee Buy-In for Strategic Change. _Harvard Business Review_. <a href="https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change">https://hbr.org/2025/08/building-employee-buy-in-for-strategic-change</a>
 
-Diedrich, S. (2025, January 16). Thriving with flexibility. *Show Me Mizzou*. <a href="https://showme.missouri.edu/2025/thriving-with-flexibility/" target="_blank">https://showme.missouri.edu/2025/thriving-with-flexibility/</a>
+Diedrich, S. (2025, January 16). Thriving with flexibility. *Show Me Mizzou*. <a href="https://showme.missouri.edu/2025/thriving-with-flexibility/">https://showme.missouri.edu/2025/thriving-with-flexibility/</a>
 
-McCuien, P. (2023, October 17). How leaders communicate with employees sets the tone for a respectful workplace culture. *Show Me Mizzou*. <a href="https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/" target="_blank">https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/</a>
+McCuien, P. (2023, October 17). How leaders communicate with employees sets the tone for a respectful workplace culture. *Show Me Mizzou*. <a href="https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/">https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/</a>
 
 ## Teaching
 
