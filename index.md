@@ -8,7 +8,7 @@ I am an Associate Teaching Professor in the Master of Health Administration prog
 
 My teaching and research focus on two connected questions: How do leaders communicate in ways that help people thrive at work? And how can health organizations communicate more ethically and effectively with the publics they serve?
 
-On the first, my research consistently finds that everyday leadership communication is positively associated with employee well-being and retention. How leaders communicate influences whether people feel respected, stay engaged, and do their best work. On the second, I examine how healthcare organizations use patient success stories as strategic assets, and how audiences respond to a story's evidence and structure in distinct ways. Because healthcare is hard for consumers to evaluate, how organizations tell stories can have an outsize influence on consumer decisions.
+On the first, my research consistently finds that everyday leadership communication is positively associated with employee well-being and retention. How leaders communicate influences whether people feel respected, stay engaged, and do their best work. On the second, I examine how healthcare organizations use patient success stories as strategic assets, and how audiences respond to a story's evidence and structure in distinct ways. Because healthcare is hard for consumers to evaluate, how organizations tell stories can have an outsize influence on consumer health decisions.
 
 My goal is to turn that research into practice: healthier, more respectful organizations, and health communication that earns the public's trust.
 
