@@ -25,7 +25,7 @@ My goal is to turn that research into practice: healthier, more respectful organ
 Zhang, W., Tsou, T. H., Rodgers, S., & **Willett, J. F.** (2024). Comparing personalization strategies in social network advertising: The role of impression motivation in persuasion
 outcomes. *Journal of Interactive Advertising*, *24*(3), 247–264. <a href="https://doi.org/10.1080/15252019.2024.2337057">https://doi.org/10.1080/15252019.2024.2337057</a>
 
-*See my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao">Google Scholar</a>*.
+*See full list of my publications on <a href="https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao">Google Scholar</a>*.
 
 ## In The Media
 
