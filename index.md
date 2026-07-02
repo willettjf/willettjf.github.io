@@ -61,15 +61,13 @@ Strategic communication leadership course focused on marketing, multi-media stor
 I have over 20 years of professional experience in journalism, healthcare communication, and academic leadership.
 
 ### Department of Health Sciences, University of Missouri, 2026-present 
-**Associate Teaching Professor**
-Teach graduate courses in healthcare strategy and marketing and managerial epidemiology in the Master of Health Administration program. Conduct research on leadership communication and health communication, and contribute to program accreditation and student mentorship.
+**Associate Teaching Professor** — Teach graduate courses in healthcare strategy and marketing and managerial epidemiology in the Master of Health Administration program. Conduct research on leadership communication and health communication, and contribute to program accreditation and student mentorship.
 
 ### Novak Leadership Institute, University of Missouri, 2022-2026  
-**Program/Research Director**
-Led the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being. Contributed to leadership development programming and promotion.
+**Program/Research Director** — Led the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being. Contributed to leadership development programming and promotion.
 
 ### University of Missouri Health Care and School of Medicine, 2015-2022
-Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
+**Communication Manager** — Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
 
 ### Journalism, 2001-2014  
 Newspaper reporter and editor at publications in Missouri and North Carolina, developing storytelling expertise that now informs my narrative persuasion research.
