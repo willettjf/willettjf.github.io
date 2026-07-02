@@ -14,6 +14,8 @@ My goal is to turn that research into practice: healthier, more respectful organ
 
 ## Research
 
+**Willett, J. F.**, & Houston, J. B. (in press). The crisis leadership framework: A meta-theoretical integration. In D. D. Sellnow, R. Freihaut, Y. Xu, & T. L. Sellnow (Eds.), _Encyclopedia of Crisis Management_. Edward Elgar Publishing.
+
 **Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2026). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. *International Journal of Business Communication*, *63*(2), 361–385. <a href="https://doi.org/10.1177/23294884231195614" target="_blank">https://doi.org/10.1177/23294884231195614</a>
 
 **Willett, J. F.**, LaGree, D., Warner, B. R., Houston, J. B., & Duffy, M. (2024). Flourishing with flexibility: Leader communicative support of flexible work arrangements (FWA) enhances employee engagement and well-being. *International Journal of Business Communication*. Advance online publication. <a href="https://doi.org/10.1177/23294884241291531" target="_blank">https://doi.org/10.1177/23294884241291531</a>
@@ -64,7 +66,7 @@ Teach graduate courses in healthcare strategy and marketing and managerial epide
 
 ### Novak Leadership Institute, University of Missouri, 2022-2026  
 **Program/Research Director**
-Lead the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being. Contributed to leadership development programming and promotion.
+Led the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being. Contributed to leadership development programming and promotion.
 
 ### University of Missouri Health Care and School of Medicine, 2015-2022
 Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
