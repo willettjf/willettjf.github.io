@@ -11,7 +11,9 @@ OUTPUT="$REPO/assets/files/curriculum_vitae.pdf"
 echo "Exporting CV to PDF..."
 pandoc "$VAULT_CV" \
   -o "$OUTPUT" \
+  --pdf-engine=xelatex \
   --metadata title="" \
+  -V mainfont="Times New Roman" \
   -V geometry:margin=1in -V fontsize=12pt \
   -V colorlinks=true -V urlcolor=NavyBlue
 
