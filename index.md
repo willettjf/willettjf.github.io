@@ -12,6 +12,27 @@ On the first, my research consistently finds that everyday leadership communicat
 
 My goal is to turn that research into practice: healthier, more respectful organizations, and health communication that earns the public's trust.
 
+## Teaching
+
+### Current
+
+**Health Administration 8470: Strategic Planning and Marketing for Health Care Organizations** (3 Credit Hours)  
+Analysis of strategic planning, services management, and marketing concepts in healthcare. Covers environment analysis, organizational assessment, and implementing strategy through service management and marketing.
+
+**Health Administration 7544: Managerial Epidemiology: Population Health Management** (3 Credit Hours)  
+Examination of basic epidemiological concepts and methods as they apply to health services management, with an emphasis on practical applications of epidemiology to health services planning, problem solving, policy development, and systems-thinking. 
+
+### Certifications
+
+* Online Teaching
+* Inclusive Teaching
+* Writing Intensive (WI)
+
+### Past
+
+**Journalism 4242W/7242W: Strategic Communication Leadership** (3 Credit Hours)  
+Strategic communication leadership course focused on marketing, multi-media storytelling, advertising, and social platforms. Students learn practical strategies to lead teams and develop positive relationships in organizations. (Writing intensive course)
+
 ## Research
 
 **Willett, J. F.**, & Houston, J. B. (in press). The crisis leadership framework: A meta-theoretical integration. In D. D. Sellnow, R. Freihaut, Y. Xu, & T. L. Sellnow (Eds.), _Encyclopedia of Crisis Management_. Edward Elgar Publishing.
@@ -33,27 +54,6 @@ Diedrich, S. (2025, January 16). Thriving with flexibility. *Show Me Mizzou*. <a
 
 McCuien, P. (2023, October 17). How leaders communicate with employees sets the tone for a respectful workplace culture. *Show Me Mizzou*. <a href="https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/">https://showme.missouri.edu/2023/how-leaders-communicate-with-employees-sets-the-tone-for-a-respectful-workplace-culture/</a>
 
-## Teaching
-
-### Current
-
-**Health Administration 8470: Strategic Planning and Marketing for Health Care Organizations** (3 Credit Hours)  
-Analysis of strategic planning, services management, and marketing concepts in healthcare. Covers environment analysis, organizational assessment, and implementing strategy through service management and marketing.
-
-**Health Administration 7544: Managerial Epidemiology: Population Health Management** (3 Credit Hours)  
-Examination of basic epidemiological concepts and methods as they apply to health services management, with an emphasis on practical applications of epidemiology to health services planning, problem solving, policy development, and systems-thinking. 
-
-### Certifications
-
-* Online Teaching
-* Inclusive Teaching
-* Writing Intensive (WI)
-
-### Past
-
-**Journalism 4242W/7242W: Strategic Communication Leadership** (3 Credit Hours)  
-Strategic communication leadership course focused on marketing, multi-media storytelling, advertising, and social platforms. Students learn practical strategies to lead teams and develop positive relationships in organizations. (Writing intensive course)
-
 ## Professional Experience
 
 I have over 20 years of professional experience in journalism, healthcare communication, and academic leadership.
@@ -65,19 +65,18 @@ I have over 20 years of professional experience in journalism, healthcare commun
 **Program/Research Director** — Led the institute's leadership research agenda, focusing on how leadership communication shapes workplace culture and enhances employee engagement and well-being. Contributed to leadership development programming and promotion.
 
 ### University of Missouri Health Care and School of Medicine, 2015-2022
-**Communication Manager** — Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
+**Communications Manager** — Led strategic health communications and managed COVID-19 communication response that increased website engagement by nearly 1200% in 2021.
 
 ### Journalism, 2001-2014  
 Newspaper reporter and editor at publications in Missouri and North Carolina, developing storytelling expertise that now informs my narrative persuasion research.
 
 ## Areas of Expertise
 
-- Leadership and organizational communication
-- Health communication and narrative persuasion
-- Strategic communication research and application
-- Student mentorship and academic development
-- Digital content strategy and development
-- Journalistic storytelling and reporting
+- Leadership communication
+- Organizational communication
+- Health communication
+- Strategic communication
+- Narrative persuasion and patient storytelling
 
 ## Education
 
