@@ -35,6 +35,9 @@ Strategic communication leadership course focused on marketing, multi-media stor
 
 ## Research
 
+**Willett, J. F.**, Shin, H., Houston, J. B., & Duffy, M. (in press). Leadership communication
+beyond relational mediation: Proposing the Leadership Communication Process Model. *International Journal of Business Communication*.
+
 **Willett, J. F.**, & Houston, J. B. (in press). The crisis leadership framework: A meta-theoretical integration. In D. D. Sellnow, R. Freihaut, Y. Xu, & T. L. Sellnow (Eds.), _Encyclopedia of Crisis Management_. Edward Elgar Publishing.
 
 **Willett, J. F.**, LaGree, D., Shin, H., Houston, J. B., & Duffy, M. (2026). The role of leader communication in fostering respectful workplace culture and increasing employee engagement and well-being. *International Journal of Business Communication*, *63*(2), 361–385. <a href="https://doi.org/10.1177/23294884231195614">https://doi.org/10.1177/23294884231195614</a>
