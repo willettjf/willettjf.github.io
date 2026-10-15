@@ -35,6 +35,8 @@ Strategic communication leadership course focused on marketing, multi-media stor
 
 ## Research
 
+Ndone, J., **Willett, J. F.**, Flaker, L., Bergstrom, A., Capizzo, L., Jin, Y., & Duffy, M. (2026). Moral courage vs. Moral deference: Ethical leadership and employee outcomes during AI-assisted internal crises. *International Journal of Strategic Communication*. Advance online publication. <a href="https://doi.org/10.1080/1553118X.2026.2740046">https://doi.org/10.1080/1553118X.2026.2740046</a>
+
 **Willett, J. F.**, & Houston, J. B. (in press). The crisis leadership framework: A meta-theoretical integration. In D. D. Sellnow, R. Freihaut, Y. Xu, & T. L. Sellnow (Eds.), _Encyclopedia of Crisis Management_. Edward Elgar Publishing.
 
 **Willett, J. F.**, Shin, H., Houston, J. B., & Duffy, M. (2026). Leadership communication
