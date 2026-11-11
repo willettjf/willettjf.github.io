@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: Justin F. Willett
 ---
 
 ## About Me
