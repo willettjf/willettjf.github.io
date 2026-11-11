@@ -1,5 +1,6 @@
 # Basic Information 
 title: Justin F. Willett
+tagline: Leadership and Health Communication
 position: Associate Teaching Professor
 affiliation: Master of Health Administration Program, Department of Health Sciences, University of Missouri
 email: <a href="mailto:willettj@health.missouri.edu">willettj (at) health.missouri.edu</a>
@@ -7,8 +8,7 @@ email: <a href="mailto:willettj@health.missouri.edu">willettj (at) health.missou
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Justin F. Willett, leadership communication, health communication, strategic communication, Master of Health Administration, University of Missouri
-description: Justin F. Willett is an Associate Teaching Professor in the Master of Health Administration program at the University of Missouri, researching leadership communication and health communication.
-canonical: https://willettjf.com
+description: Justin F. Willett is an Associate Teaching Professor at the University of Missouri who studies leadership communication and health communication.
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -16,6 +16,7 @@ canonical: https://willettjf.com
 google_scholar: https://scholar.google.com/citations?user=t1pq2N4AAAAJ&hl=en&oi=ao
 cv_link: assets/files/curriculum_vitae.pdf
 linkedin: https://www.linkedin.com/in/willettjf
+orcid: https://orcid.org/0000-0002-9110-0837
 # twitter: https://twitter.com/willettjf
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -39,6 +40,21 @@ font: "Sans Serif" # "Serif" or "Sans Serif"
 # Site URL and author, used by the sitemap and SEO tags
 url: https://willettjf.com
 author: Justin F. Willett
+
+# Profiles that identify the same person, used in the structured data
+social:
+  name: Justin F. Willett
+  links:
+    - https://scholar.google.com/citations?user=t1pq2N4AAAAJ
+    - https://www.linkedin.com/in/willettjf
+    - https://orcid.org/0000-0002-9110-0837
+
+# Preview image for links shared on LinkedIn, email, and elsewhere
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/JW1200.png
 
 # GoatCounter analytics (https://willettjf.goatcounter.com)
 goatcounter: willettjf
